@@ -1,0 +1,21 @@
+{
+	"name": "adf-nycpayroll-sarthakm",
+	"properties": {
+		"globalParameters": {
+			"gp_fiscalyear": {
+				"type": "int",
+				"value": 2020
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad5cba9a-3f19-4c4c-ba90-7616d4d9b722",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
